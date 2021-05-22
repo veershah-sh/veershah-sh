@@ -1,10 +1,13 @@
-<h2>Hi there 👋, I'm Veer Shah!  &nbsp; <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"></h2>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Veer Shah! 👨‍💻
 <!--<img align='right' src="profile.jpg" width="230"> -->
+
 <p><em>Computer Science Student @ <a href="http://www.spuvvn.edu/">Sardar Patel University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Python Developer & Penetration Tester<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!--[![Instagram: _.veershah._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/_.veershah._)](https://instagram.com/_.veershah._) -->
 [![Linkedin: veer-shah-44737b176](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-shah-44737b176/)
+[![HackerRank: veershah_sh](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/veershah_sh?hr_r=1)
+
 [![GitHub veershah-sh](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/veershah-sh)
 
 
@@ -18,7 +21,7 @@ def my_self(veershah):
    techcommunities = {
                         "member" : "OWASP Ahmedabad"
    }
-   challenge = "I am doing #30DaysOfCode by Hacker Rank & focused on python"
+   challenge = "I am doing #30DaysOfCode by Hacker Rank focused on python"
 ```
 
 
@@ -34,7 +37,16 @@ def my_self(veershah):
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning new things and technologies</em>
+<br />
+<br />
+<em><b>I love learning new things and technologies</b></em>
+<br />
+<img align="left" alt="" width="150px" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+
+<br />
+
+## &#x1f4c8; GitHub Stats
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veershah-sh&theme=blue-green&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
 
 <!--
 **veershah-sh/veershah-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
