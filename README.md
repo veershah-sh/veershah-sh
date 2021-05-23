@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Veer Shah! 👨‍💻
-<!--<img align='right' src="profile.jpg" width="230"> -->
+<img align='right' src="veershah_sh.png" width="230">
 
 <p><em>Computer Science Student @ <a href="http://www.spuvvn.edu/">Sardar Patel University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Python Developer & Penetration Tester<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
