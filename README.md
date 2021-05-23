@@ -4,7 +4,7 @@
 <p><em>Computer Science Student @ <a href="http://www.spuvvn.edu/">Sardar Patel University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Python Developer & Penetration Tester<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!--[![Instagram: _.veershah._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/_.veershah._)](https://instagram.com/_.veershah._) -->
+[![Instagram: _.veershah._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/_.veershah._)](https://instagram.com/_.veershah._)
 [![Linkedin: veer-shah-44737b176](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-shah-44737b176/)
 [![HackerRank: veershah_sh](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/veershah_sh?hr_r=1)
 
