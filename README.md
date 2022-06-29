@@ -11,12 +11,11 @@
 ```python
 def my_self(veershah):
    pronouns = ["he" | "him"]
-   code = ["Python", "HTML", "CSS", "Java", "Bash", "C", "C++"]
-   skills = ["Penetration Testing", "Bug Bounty", "Cyber Security", "Web Development", "Web App Testing"]
+   code = ["Python", "JavaScript", "React"]
+   skills = ["Penetration Testing", "Web Development", "UI/UX Designing"]
    techcommunities = {
                         "member" : "OWASP Ahmedabad"
    }
-   challenge = "I am doing #30DaysOfCode by Hacker Rank focused on python"
 ```
 
 
