@@ -8,14 +8,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
-def my_self(veershah):
-   pronouns = ["he" | "him"]
-   code = ["Python", "JavaScript", "React"]
-   skills = ["Penetration Testing", "Web Development", "UI/UX Designing"]
-   techcommunities = {
-                        "member" : "OWASP Ahmedabad"
-   }
+```javascript
+function mySelf(veershah){
+   pronouns = ["he" | "him"];
+   code = ["Python", "JavaScript", "React"];
+   skills = ["Penetration Testing", "Web Development", "UI/UX Designing"];
+}
+   
 ```
 
 
