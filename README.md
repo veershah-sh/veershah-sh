@@ -12,6 +12,7 @@ function mySelf(veershah){
    pronouns = ["he" | "him"];
    code = ["Python", "JavaScript", "React", "C", "C++", "Java", "PHP", "Django"];
    skills = ["Penetration Testing", "Full-stack Development", "UI/UX Developer", "Tutor"];
+   tools = ["VS Code", "Git", "Github", "Jira", "Adobe XD", "Figma"];
 }
    
 ```
